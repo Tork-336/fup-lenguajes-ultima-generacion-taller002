@@ -16,9 +16,10 @@
 
 .container_biografia {
     border-style: solid;
-    margin:70px;
+    margin: 40px 160px 20px 160px;
     padding: 10px;
     display: inline-flex;
+    width: 1000px;
 }
 
 .imagen_biografia {
@@ -27,6 +28,12 @@
     
 }
 
+.button_volver {
+    margin-left: 45%;
+    background-color: red;
+    color: white;
+    
+}
 /* ---- CSS Footer ---- */
 
 .footer {

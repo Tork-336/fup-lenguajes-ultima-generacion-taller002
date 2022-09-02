@@ -29,11 +29,14 @@
 }
 
 .button_volver {
-    margin-left: 45%;
+    margin:50px 700px 10px 630px;
     background-color: red;
     color: white;
-    
+    border: solid;   
+    text-decoration-line: none;
+    padding: 10px; 
 }
+
 /* ---- CSS Footer ---- */
 
 .footer {

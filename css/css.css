@@ -9,6 +9,15 @@
     margin-left: 35%;
 }
 
+.container {
+    border-style: solid;
+    margin: 20px;
+}
+
+.container > div {
+    padding: 10px;
+}
+
 .container > div > img {
     height: 450px;
     margin-left: 17%;

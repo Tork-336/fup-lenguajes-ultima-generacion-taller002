@@ -18,6 +18,13 @@
     border-style: solid;
     margin:70px;
     padding: 10px;
+    display: inline-flex;
+}
+
+.imagen_biografia {
+    width: 200px;
+    height: 200px;
+    
 }
 
 /* ---- CSS Footer ---- */
